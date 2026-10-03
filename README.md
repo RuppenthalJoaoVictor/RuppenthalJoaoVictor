@@ -17,7 +17,7 @@ código limpo, aprender com um time experiente e entregar valor de verdade.
 - 🐍 Comecei com **Python** e hoje trabalho com **JavaScript/TypeScript** no lado web.
 - 🌱 Gosto de transformar problemas do dia a dia em software simples e útil — por isso meus projetos pessoais sempre vêm acompanhados de documentação e testes.
 - 🤝 Valorizo comunicação clara, código revisável e trabalho em equipe.
-- ⚡ Aprendendo rápido: cada projeto que termino vira nota no meu diretório de estudos.
+- ⚡ Aprendendo rápido: cada projeto que termino vira nota no meu [diário de estudos](https://github.com/RuppenthalJoaoVictor/study-journal).
 
 ## 🛠️ Stack
 
@@ -35,6 +35,7 @@ código limpo, aprender com um time experiente e entregar valor de verdade.
 | :--- | :--- | :--- |
 | [**taskflow-api**](https://github.com/RuppenthalJoaoVictor/taskflow-api) | API REST de gerenciamento de tarefas com **JWT**, **bcrypt**, isolamento por usuário, 25 testes e CI | Python · FastAPI · SQLAlchemy · pytest |
 | [**devlog-cli**](https://github.com/RuppenthalJoaoVictor/devlog-cli) | CLI que registra sessões de estudo e gera relatórios de progresso, com 42 testes e tipagem estrita | TypeScript · Node.js · Vitest · Zod |
+| [**study-journal**](https://github.com/RuppenthalJoaoVictor/study-journal) | Diário público da minha jornada de estudo, com o que aprendi **e onde travei** | Markdown · Roadmap |
 
 ## 📊 GitHub Stats
 
